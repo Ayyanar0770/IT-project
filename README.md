@@ -1,1 +1,2 @@
-# IT-project
+# movie-recommendation-system
+using machine learning
